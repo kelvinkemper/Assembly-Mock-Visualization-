@@ -39,4 +39,7 @@ Next, you must read in the input/output streams. An input stream will follow the
 An output stream will follow the keyword "OUTPUT" and only coordinates will be given. Both streams will end with the keyword "END". You can assume that this input will be well-formed.
 
 ---
-![](/resources/Recording_2023-07-25_162845_AdobeExpress.gif)
+
+
+https://github.com/kelvinkemper/Mock-Assembly-Visualization/assets/39568186/a6e3a38e-78b0-4751-ae3c-e149533fc631
+
