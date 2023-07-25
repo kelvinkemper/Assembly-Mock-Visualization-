@@ -39,4 +39,4 @@ Next, you must read in the input/output streams. An input stream will follow the
 An output stream will follow the keyword "OUTPUT" and only coordinates will be given. Both streams will end with the keyword "END". You can assume that this input will be well-formed.
 
 ---
-![](/resources/Recording%202023-07-25%20162845.mp4)
+![](/resources/Recording_2023-07-25_162845_AdobeExpress.gif)
