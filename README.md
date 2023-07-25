@@ -3,6 +3,13 @@ This Java program implements a set of Assembly Silos, which are independent virt
 
 **Creation of parser, interpreter, and GUI was required for this project** 
 
+---
+
+
+https://github.com/kelvinkemper/Mock-Assembly-Visualization/assets/39568186/a6e3a38e-78b0-4751-ae3c-e149533fc631
+
+---
+
 ## How to run the Program
 As usual with these specific Java programs. Use of JavaFX and Java version 17 is required. For ease of use, programs were created using Azul Zulu 17.
 
@@ -38,8 +45,5 @@ Next, you must read in the input/output streams. An input stream will follow the
 
 An output stream will follow the keyword "OUTPUT" and only coordinates will be given. Both streams will end with the keyword "END". You can assume that this input will be well-formed.
 
----
 
-
-https://github.com/kelvinkemper/Mock-Assembly-Visualization/assets/39568186/a6e3a38e-78b0-4751-ae3c-e149533fc631
 
